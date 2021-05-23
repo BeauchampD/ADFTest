@@ -1,0 +1,9 @@
+{
+	"name": "H28PSOMasterLoadProc",
+	"location": "australiaeast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "635d59c8-f8b0-4e34-b42c-56f4a6bb7262",
+		"tenantId": "a397c245-3b02-4a6f-ba64-088acc29c289"
+	}
+}
