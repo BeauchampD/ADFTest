@@ -3,7 +3,7 @@
 	"properties": {
 		"activities": [
 			{
-				"name": "H28_PSO_MasterLOad",
+				"name": "H28_PSO_MasterLoad",
 				"type": "SqlServerStoredProcedure",
 				"dependsOn": [],
 				"policy": {
